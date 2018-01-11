@@ -1,2 +1,2 @@
 # rdela.github.io
-rdela://oss
+[rdela://oss](https://github.com/rdela/)
