@@ -14,14 +14,14 @@
 
 🤖 [famebot.com](https://famebot.com/)
 
+🐙 [@rdela on github](https://github.com/rdela)
+
+🦊 [@rdela on gitlab](https://gitlab.com/rdela)
+
 🐦 [@rickydelaveaga on twitter](https://twitter.com/rickydelaveaga)
 
 🐘 [@rdela@mastodon.social](https://mastodon.social/@rdela)
 
 🔐 [@rdela on keybase](https://keybase.io/rdela)
-
-🦊 [@rdela on gitlab](https://gitlab.com/rdela)
-
-🐙 [@rdela on github](https://github.com/rdela)
 
 ℹ️ [source](https://github.com/rdela/rdela.github.io/blob/master/readme.md)
