@@ -22,4 +22,6 @@
 
 🔐 [@rdela on keybase](https://keybase.io/rdela)
 
+📝 [gists](https://gist.github.com/rdela)
+
 ℹ️ [source](https://github.com/rdela/rdela.github.io/blob/master/readme.md)
