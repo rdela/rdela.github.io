@@ -2,11 +2,11 @@
 
 🐞 Various bug fixes and improvements
 
-# Ricky de Laveaga
+# 👨🏻 Ricky de Laveaga
 
 ## 🐙 [@rdela](https://github.com/rdela)
 
-6th-generation organic click-farmer from California
+6️⃣th-generation organic click-farmer from California
 
 👥 [@famebot](https://github.com/famebot)
 
