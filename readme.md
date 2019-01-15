@@ -1,4 +1,4 @@
-<img width="230" height="230" src="https://avatars0.githubusercontent.com/u/74381?s=460&v=4" />
+<img width="230" height="230" src="https://avatars0.githubusercontent.com/u/74381?s=460&v=4" alt="" />
 
 🐞 Various bug fixes and improvements
 
