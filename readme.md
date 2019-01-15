@@ -4,7 +4,7 @@
 
 # Ricky de Laveaga
 
-## [rdela.github.io](https://rdela.github.io/)
+## 🐙 [@rdela](https://github.com/rdela)
 
 6th-generation organic click-farmer from California
 
@@ -13,8 +13,6 @@
 🔗 [rdela.com](https://rdela.com/)
 
 🤖 [famebot.com](https://famebot.com/)
-
-🐙 [@rdela on github](https://github.com/rdela)
 
 🦊 [@rdela on gitlab](https://gitlab.com/rdela)
 
