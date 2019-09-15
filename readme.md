@@ -6,7 +6,7 @@
 
 ## 🐙 [@rdela](https://github.com/rdela)
 
-6️⃣th-generation organic click-farmer from California
+🔨 Building fresh packages...
 
 👥 [@famebot](https://github.com/famebot)
 
